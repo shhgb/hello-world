@@ -1,2 +1,2 @@
 # hello-world
-just a try.
+Hi everybody! Nice to meet all of you!
